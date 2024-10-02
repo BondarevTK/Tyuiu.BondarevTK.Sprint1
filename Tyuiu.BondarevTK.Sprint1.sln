@@ -5,11 +5,11 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{97877F99-A969-4621-A824-202F100A195D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BondarevTK.Sprint1.V20.Test", "Tyuiu.BondarevTK.Sprint1.V20.Test\Tyuiu.BondarevTK.Sprint1.V20.Test.csproj", "{9B84B345-1F41-43AB-9A32-B72653232AE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BondarevTK.Sprint1.Task0.V20.Test", "Tyuiu.BondarevTK.Sprint1.V20.Test\Tyuiu.BondarevTK.Sprint1.Task0.V20.Test.csproj", "{9B84B345-1F41-43AB-9A32-B72653232AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BondarevTK.Sprint1.V20.Lib", "Tyuiu.BondarevTK.Sprint1.V20.Lib\Tyuiu.BondarevTK.Sprint1.V20.Lib.csproj", "{03CD3A7B-C0B0-46DF-96CD-3CB9D6CC146B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BondarevTK.Sprint1.Task0.V20.Lib", "Tyuiu.BondarevTK.Sprint1.V20.Lib\Tyuiu.BondarevTK.Sprint1.Task0.V20.Lib.csproj", "{03CD3A7B-C0B0-46DF-96CD-3CB9D6CC146B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BondarevTK.Sprint1.V20", "Tyuiu.BondarevTK.Sprint1.V20\Tyuiu.BondarevTK.Sprint1.V20.csproj", "{65EE6DA6-BC44-45FD-A8DB-BD1377D4A595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BondarevTK.Sprint1.Task0.V20", "Tyuiu.BondarevTK.Sprint1.V20\Tyuiu.BondarevTK.Sprint1.Task0.V20.csproj", "{65EE6DA6-BC44-45FD-A8DB-BD1377D4A595}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
