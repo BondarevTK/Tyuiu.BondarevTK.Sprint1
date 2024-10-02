@@ -28,3 +28,5 @@ namespace Tyuiu.BondarevTK.Sprint1.Task0.V20
             Console.WriteLine(ds.Calculate());
             Console.ReadKey();
         }
+    }
+}
