@@ -1,5 +1,5 @@
-﻿using Tyuiu.BondarevTK.Sprint1.V20.Lib;
-namespace Tyuiu.BondarevTK.Sprint1.V20
+﻿using Tyuiu.BondarevTK.Sprint1.Task0.V20.Lib;
+namespace Tyuiu.BondarevTK.Sprint1.Task0.V20
 {
     internal class Program
     {
