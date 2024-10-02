@@ -5,7 +5,7 @@ namespace Tyuiu.BondarevTK.Sprint1.Task2.V5.Lib
     {
         public int CalculateSideSquare(int x)
         {
-            return x * x * x;
+            return x * x;
         }
     }
 }
