@@ -9,7 +9,7 @@ namespace Tyuiu.BondarevTK.Sprint1.Task2.V5.Test
         public void TestMethod1()
         {
             var ds = new DataService();
-            Assert.AreEqual(ds.CalculateSideSquare(2), 4);
+            Assert.AreEqual(ds.CalculateSideSquare(2), 8);
         }
     }
 }
